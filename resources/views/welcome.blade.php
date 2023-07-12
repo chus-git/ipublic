@@ -52,7 +52,7 @@
 
     <footer>
         <span>we do not collect any data</span>
-        <span>see the <a href="/">github repository</a> of this application</span>
+        <span>see the <a href="https://github.com/chus-git/ipublic">github repository</a> of this application</span>
     </footer>
 
 </body>
